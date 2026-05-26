@@ -24,8 +24,8 @@
 
 #
 <div>
-    <img height="180" alt="github" src="https://github-readme-stats.vercel.app/api?username=Larand26&show_icons=true&theme=buefy&hide_border=true" />
-    <img height="180" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larand26&layout=compact&theme=buefy&hide_border=true" />
+    <img height="180" alt="github" src="https://github-readme-stats.vercel.app/api?username=Larand26&show_icons=true&theme=buefy&hide_border=true&v=1" />
+    <img height="180" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larand26&layout=compact&theme=buefy&hide_border=true&v=1" />
 </div>
 
 ## 🚀 Projetos em Destaque
